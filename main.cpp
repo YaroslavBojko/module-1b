@@ -13,4 +13,13 @@ int main() {
     std::cout << "||         World          ||" << std::endl;
     std::cout << "============================" << std::endl;
 
+    std::cout << "Option 3. Even better." << std::endl;
+    std::cout << "============================" << std::endl;
+    std::cout << "||                        ||" << std::endl;
+    std::cout << "||                        ||" << std::endl;
+    std::cout << "||         Hello,         ||" << std::endl;
+    std::cout << "||         World          ||" << std::endl;
+    std::cout << "||                        ||" << std::endl;
+    std::cout << "||                        ||" << std::endl;
+    std::cout << "============================" << std::endl;
 }
