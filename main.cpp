@@ -1,6 +1,11 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
+    std::cout << "Option 1. Easy and relaxed." << std::endl;
+    std::cout << "===========================" << std::endl;
+    std::cout << "Hello," << std::endl;
+    std::cout << "World" << std::endl;
+    std::cout << "===========================" << std::endl;
+
+
 }
